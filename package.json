@@ -1,0 +1,25 @@
+{
+  "name": "draftt",
+  "version": "1.0.0",
+  "description": "draft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JG0nzales/draftprelim.git"
+  },
+  "keywords": [
+    "draft"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JG0nzales/draftprelim/issues"
+  },
+  "homepage": "https://github.com/JG0nzales/draftprelim#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
